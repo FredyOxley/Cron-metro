@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.botao-iniciar{
+    background-color: green;
+}
+
+.botao-pausar{
+    background-color: grey;
+}
+
+.botao-parar{
+    background-color: red;
+}
